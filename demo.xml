@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+   <Start>
+     <Stream url="wss://mystream.ngrok.io/example" >
+        <Parameter name="customerID" value="12345"/>
+        <Parameter name="selectedProductID" value="87144192-73e2-45a6"/>
+      </Stream>
+    </Start>
+</Response>
